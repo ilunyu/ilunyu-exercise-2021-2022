@@ -1,0 +1,121 @@
+{
+  "id": "202204-sygsym",
+  "title": "2022·顺义高三一模",
+  "year": "2021-2022",
+  "month": 202204,
+  "source": "顺义",
+  "grade": 3,
+  "type": "一模",
+  "number": 3,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "3．（10分）阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 1217,
+      "sourcename": "《颜渊》",
+      "paragraphs": [
+        {
+          "text": "季康子问政于孔子，孔子对曰：“政者，正也。子帅以正，孰敢不正？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1303,
+      "sourcename": "《子路》",
+      "paragraphs": [
+        {
+          "text": "子路曰：“卫君待子而为政，子将奚先？”子曰：“必也正名乎！”子路曰：“有是哉，子之迂也！奚其正？”子曰：“野哉，由也！君子于其所不知，盖阙如也。名不正，则言不顺；言不顺，则事不成；事不成，则礼乐不兴；礼乐不兴，则刑罚不中；刑罚不中，则民无所措手足。故君子名之必可言也，言之必可行也。君子于其言，无所苟而已矣。”",
+          "format": {
+            "marks": {
+              "emphasis": [
+                {
+                  "start": 149,
+                  "end": 150
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1306,
+      "sourcename": "《子路》",
+      "paragraphs": [
+        {
+          "text": "子曰：“其身正，不令而行；其身不正，虽令不从。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 1313,
+      "sourcename": "《子路》",
+      "paragraphs": [
+        {
+          "text": "子曰：“苟正其身矣，于从政乎何有？不能正其身，如正人何？”",
+          "format": {
+            "marks": {
+              "emphasis": [
+                {
+                  "start": 4,
+                  "end": 5
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注：帅：通“率”，率领。阙如：存疑。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）解释下列句中加点字含义。①无所苟而已矣 ②苟正其身矣",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）请写出一个出自第二则语录中的成语。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）请概括孔子关于“政”与“正”的认识。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）①“苟”，苟且，马马虎虎。句意：是从不马虎对待的。②“苟”，如果，假如。句意：如果端正了自己的言行。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）“名正言顺”，或“名不正言不顺”、“手足无措”。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）孔子认为“为政”就是正确、公正；执政者就要以身作则，给民众做榜样；如果执政者不能以身作则，就会导致国家政令不通；要“正名”把各自的身份角色确立起来，明确职责，这样社会才能正常运转。",
+      "format": {}
+    }
+  ]
+}

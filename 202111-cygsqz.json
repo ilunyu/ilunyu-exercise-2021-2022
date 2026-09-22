@@ -1,0 +1,73 @@
+{
+  "id": "202111-cygsqz",
+  "title": "2021·朝阳高三期中",
+  "year": "2021-2022",
+  "month": 202111,
+  "source": "朝阳",
+  "grade": 3,
+  "type": "期中",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。（6分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 210,
+      "sourcename": "《为政》",
+      "paragraphs": [
+        {
+          "text": "子曰：“视其所以，观其所由，察其所安。人焉廋哉？人焉廋哉？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 510,
+      "sourcename": "《公冶长》",
+      "paragraphs": [
+        {
+          "text": "子曰：“始吾于人也，听其言而信其行；今吾于人也，听其言而观其行。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1528,
+      "sourcename": "《卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“众恶之，必察焉；众好之，必察焉。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注：廋：隐藏，藏匿。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "综合以上材料，简要概括孔子对“察人”的看法。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "答案要点：①观察言行是否一致。②重视考察动机本心。③注重调查，贵在独立判断。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "评分说明：每点2分。意思对即可。",
+      "format": {}
+    }
+  ]
+}

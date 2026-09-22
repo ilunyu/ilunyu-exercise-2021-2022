@@ -1,0 +1,88 @@
+{
+  "id": "202204-dcgsym",
+  "title": "2022·东城高三一模",
+  "year": "2021-2022",
+  "month": 202204,
+  "source": "东城",
+  "grade": 3,
+  "type": "一模",
+  "number": 12,
+  "score": 8,
+  "question": [
+    {
+      "type": "regular",
+      "text": "（二）阅读下面《论语》中的文字，完成12-13题。（共8分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 707,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“自行束脩以上，吾未尝无诲焉。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 734,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“若圣与仁，则吾岂敢？抑为之不厌，诲人不倦。则可谓云尔已矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 817,
+      "sourcename": "《泰伯》",
+      "paragraphs": [
+        {
+          "text": "子曰：“学如不及，犹恐失之。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 1923,
+      "sourcename": "《子张》",
+      "paragraphs": [
+        {
+          "text": "叔孙武叔语大夫于朝曰：“子贡贤于仲尼。”子服景伯以告子贡。子贡曰：“譬之宫墙，赐之墙也及肩，窥见室家之好。夫子之墙数仞，不得其门而入，不见宗庙之美，百官之富。得其门者或寡矣。夫子之云，不亦宜乎！”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "12.从（1）—（3）则可以看出孔子是一个怎样的人？请结合具体内容简要分析。（4分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "13.山东曲阜孔庙前的仰圣门上，题有四个大字：“万仞宫墙”。请结合第（4）则内容解释“万仞宫墙”的意思，并说明它题写在此处有何深意。（4分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "12.要点：①有教无类 ②诲人不倦 ③谦逊 ④好学",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "13.要点：①“万仞宫墙”是说围墙有万仞高，指孔子的道德学问渊博高深，一般人无法领悟其奥妙。②题写在此处，借子贡对孔子的称颂，彰显了孔子“圣人”的崇高地位，表达了世人对孔子的尊崇和敬仰。（其他解释，合理即可）",
+      "format": {}
+    }
+  ]
+}

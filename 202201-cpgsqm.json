@@ -1,0 +1,78 @@
+{
+  "id": "202201-cpgsqm",
+  "title": "2022·昌平高三期末",
+  "year": "2021-2022",
+  "month": 202201,
+  "source": "昌平",
+  "grade": 3,
+  "type": "期末",
+  "number": 12,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。（6分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 620,
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“知之者不如好之者，好之者不如乐之者。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 722,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“三人行，必有我师焉。择其善者而从之，其不善者而改之。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1305,
+      "sourcename": "《子路》",
+      "paragraphs": [
+        {
+          "text": "子曰：“诵《诗》三百，授之以政，不达；使于四方，不能专对，虽多，亦奚以为？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请解释“知之者”与“乐之者”。（2分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）综合以上材料，简述孔子提出的学习经验，并就其中一点谈谈对你的启示。（4分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "12．（6分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）“知之者”是懂得学习/它的人；“乐之者”是以学习/它为乐的人。（2分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）学习经验：以兴趣为师；虚心好学、审辨学习；重视实践/学以致用。（2分）\n（答出其中的两点即可）\n启示：略（2分）",
+      "format": {}
+    }
+  ]
+}

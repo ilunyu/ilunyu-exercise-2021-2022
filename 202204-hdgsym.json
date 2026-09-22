@@ -1,0 +1,117 @@
+{
+  "id": "202204-hdgsym",
+  "title": "2022·海淀高三一模",
+  "year": "2021-2022",
+  "month": 202204,
+  "source": "海淀",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的几则语录，回答问题。（10分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 623,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“知者乐水，仁者乐山。知者动，仁者静。知者乐，仁者寿。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 917,
+      "sourcename": "《论语·子罕》",
+      "paragraphs": [
+        {
+          "text": "子在川上，曰：“逝者如斯夫！不舍昼夜。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1126,
+      "sourcename": "《论语·先进》",
+      "paragraphs": [
+        {
+          "text": "子曰：“何伤乎？亦各言其志也。”曰：“莫春者，春服既成，冠者五六人，童子六七人，浴乎沂，风乎舞雩，咏而归。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请根据上面三则语录，解说其中所蕴含的“山水情怀”。（5分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 716,
+      "sourcename": "《论语·述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“饭疏食饮水，曲肱而枕之，乐亦在其中矣。不义而富且贵，于我如浮云。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料⑤",
+      "sourceid": 919,
+      "sourcename": "《论语·子罕》",
+      "paragraphs": [
+        {
+          "text": "子曰：“譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料⑥",
+      "sourceid": 928,
+      "sourcename": "《论语·子罕》",
+      "paragraphs": [
+        {
+          "text": "子曰：“岁寒，然后知松柏之后凋也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（2）以上三则语录，于形象的比喻中蕴含着为人处世之道，请根据语录的相关内容加以概述。（5分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "11．（10分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）（5分）示例：三则语录中，山崇高伟岸、安稳厚重，水清澈灵动、奔腾不息。君子像山一样稳重沉静、厚重不移、仁爱宽厚，如水一般澄澈高洁、智慧通透、洒脱乐观、自强不息。（意思对即可）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（5分）示例：视财富地位如浮云，要淡泊名利，安贫乐道，坚守仁义；追求理想信念，要如堆山平地一样不断进取，自强不息；在人生的重大考验面前，要像松柏一样坚韧不屈，保持节操。（意思对即可）",
+      "format": {}
+    }
+  ]
+}

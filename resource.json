@@ -1,0 +1,11 @@
+{
+  "packageId": "exercise.2021-2022",
+  "kind": "exercise",
+  "year": "2021-2022",
+  "name": "2021—2022 学年试题",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "minAppVersionCode": 1,
+  "sourceRepository": "https://github.com/ilunyu/ilunyu-exercise-2021-2022",
+  "license": "All rights reserved"
+}

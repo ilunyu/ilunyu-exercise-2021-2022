@@ -1,0 +1,54 @@
+name: Release Android resource
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Detect published exercises
+        id: exercises
+        run: |
+          if find . -maxdepth 1 -type f -name '*.json' ! -name resource.json -print -quit | grep -q .; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Validate exercises
+        if: steps.exercises.outputs.present == 'true'
+        run: python3 tools/validate_exercises.py
+      - name: Build Android resource package
+        if: steps.exercises.outputs.present == 'true'
+        run: >-
+          python3 tools/build_resource_package.py
+          --source-repository "https://github.com/${{ github.repository }}"
+          --output dist/resource.ilunyupack
+      - name: Upload package artifact
+        if: steps.exercises.outputs.present == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-resource-package
+          path: dist/
+      - name: Create GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v') && steps.exercises.outputs.present == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          gh release create "${{ github.ref_name }}"
+          dist/resource.ilunyupack
+          dist/release.json
+          dist/resource.ilunyupack.sha256
+          --title "${{ github.ref_name }}"
+          --generate-notes

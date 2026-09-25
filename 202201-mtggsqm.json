@@ -1,0 +1,143 @@
+{
+  "id": "202201-mtggsqm",
+  "title": "2022·门头沟高三期末",
+  "year": "2021-2022",
+  "month": 202201,
+  "source": "门头沟",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 12,
+  "question": [
+    {
+      "type": "regular",
+      "text": "11．阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1506,
+      "sourcename": "《卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“言忠信，行笃敬，虽蛮貊之邦，行矣。言不忠信，行不笃敬，虽州里，行乎哉？”",
+          "format": {
+            "marks": {
+              "emphasis": [
+                {
+                  "start": 10,
+                  "end": 11
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 725,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子以四教：文、行、忠、信。",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 0,
+                  "end": 13
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 104,
+      "sourcename": "《学而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“为人谋而不忠乎？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": -1,
+      "sourcename": "《学而》《子罕》",
+      "paragraphs": [
+        {
+          "text": "子曰：“主忠信，毋友不如己者，过则勿惮改。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1407,
+      "sourcename": "《宪问》",
+      "paragraphs": [
+        {
+          "text": "子曰：“爱之，能勿劳乎，忠焉，能勿诲乎。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1422,
+      "sourcename": "《宪问》",
+      "paragraphs": [
+        {
+          "text": "子路问事君，子曰：“勿欺也，而犯之。”",
+          "format": {
+            "marks": {
+              "emphasis": [
+                {
+                  "start": 15,
+                  "end": 16
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请解释加点字“敬”和“犯”的含义。（2分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）请翻译划线句子。（4分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）“忠”是修己、待友、事君治民的重要原则。请根据材料概括“忠”的思想内涵，并选择其中一点结合现实谈谈你的认识。（6分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（2分）“敬”，恭敬；“犯”，当面直言规劝。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（4分）孔子以四项内容来教导学生：文化知识、履行所学之道的行动、忠诚、守信。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）（6分）“忠”的内涵是“尽己”，要忠于自己的内心所想；对人对事要忠心不二；要尽到自己的能力或者职责。认识：身处当下社会，对自己从事的事业要“忠”，要尽自己的能力做好每一件事。",
+      "format": {}
+    }
+  ]
+}

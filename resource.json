@@ -3,8 +3,8 @@
   "kind": "exercise",
   "year": "2021-2022",
   "name": "2021—2022 学年试题",
-  "versionName": "0.2.0",
-  "versionCode": 4,
+  "versionName": "1.0.0",
+  "versionCode": 5,
   "minAppVersionCode": 1,
   "sourceRepository": "https://github.com/ilunyu/ilunyu-exercise-2021-2022",
   "license": "All rights reserved"
